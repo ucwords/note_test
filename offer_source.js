@@ -1,5 +1,5 @@
 let http = require('http');
-let url = 'http://portal.leanmobi.com/?s=open/adv/getList&key=akhuighayU^Y-LIg';
+let url = ''; //adv info get
 
 let getSource=function(){
 
