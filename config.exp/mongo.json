@@ -1,0 +1,10 @@
+{
+    "center": {
+        "connectStr": "mongodb://127.0.0.1/center",
+        "options": {
+            "autoReconnect": true,
+            "poolSize": 8
+
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "ice_get_offer",
+  "version": "0.2.0",
+  "private": true,
+  "scripts": {
+    "start": "env=product forever start bin/start.js",
+    "test": "node bin/start.js --debug"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "mongodb": "^2.2.25",
+    "node-cron": "^1.2.0",
+    "request": "^2.81.0",
+    "request-promise-native": "^1.0.4"
+  },
+  "devDependencies": {}
+}
