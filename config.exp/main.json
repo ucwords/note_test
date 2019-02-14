@@ -1,5 +1,5 @@
 {
 	"debug":false ,
 	"no_survey":false,
-	"url_fix":"http://portal.leanmobi.com/?s=admin/auto_pull/getOfferIdsByAdvName&adv="
+	"url_fix":""//getOfferIdsByAdvName
 }
